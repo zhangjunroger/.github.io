@@ -13,9 +13,15 @@
 9. 二阶系统时域响应分析     链接：https://pan.baidu.com/s/10qc8j5aShZO4-1SBQVo38g?pwd=exv7    提取码：exv7
 10. 稳定性                链接：https://pan.baidu.com/s/1g3alamThACjY6jSD7BPqsg?pwd=mkzv    提取码：mkzv
 11. 稳态误差              链接：https://pan.baidu.com/s/1Ru4kA2I1lcxhgqyU-takTA?pwd=zj9m    提取码：zj9m
-12. 
+12. 实验1                链接：https://pan.baidu.com/s/1DxWwK0FNItVZ43ZhbHSt7w?pwd=25xw     提取码：25xw
 
-## 神经网络与深度学习（21级全校选修课研究生）
+## 神经网络与深度学习（21级研究生选修课）
 
-1.
+1. 绪论、机器学习概述           https://www.bilibili.com/video/BV1vr4y1J7Nv/
+2. 机器学习概述、线性模型        https://www.bilibili.com/video/BV1yu411k7kS/
+3. 机器学习基础                https://www.bilibili.com/video/BV18a411Y7G3/
+4. 线性模型                   https://www.bilibili.com/video/BV1Zr4y1J7WJ/
+5. 前馈神经网络                https://www.bilibili.com/video/BV1oF411M7sV/
+6. 前馈神经网络、卷积神经网络    https://www.bilibili.com/video/BV1mZ4y1C7wo/
+7. 卷积神经网络2               https://www.bilibili.com/video/BV1rY411A7GJ/   
 
