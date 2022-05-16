@@ -26,4 +26,5 @@
 6. 前馈神经网络、卷积神经网络    [https://www.bilibili.com/video/BV1mZ4y1C7wo/](https://www.bilibili.com/video/BV1mZ4y1C7wo/)
 7. 卷积神经网络2               [https://www.bilibili.com/video/BV1rY411A7GJ/](https://www.bilibili.com/video/BV1rY411A7GJ/) 
 8. 卷积、循环神经网络           [https://www.bilibili.com/video/BV16R4y1A73d/](https://www.bilibili.com/video/BV16R4y1A73d/)
+9. 练习题答疑                  链接：[https://pan.baidu.com/s/1-_S5akgVXZ9W_UW_UYuqyQ?pwd=jcn4](https://pan.baidu.com/s/1-_S5akgVXZ9W_UW_UYuqyQ?pwd=jcn4)   提取码：jcn4
 
