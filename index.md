@@ -15,6 +15,9 @@
 11. 稳态误差              链接：[https://pan.baidu.com/s/1Ru4kA2I1lcxhgqyU-takTA?pwd=zj9m](https://pan.baidu.com/s/1Ru4kA2I1lcxhgqyU-takTA?pwd=zj9m)    提取码：zj9m
 12. 实验1                链接：[https://pan.baidu.com/s/1DxWwK0FNItVZ43ZhbHSt7w?pwd=25xw](https://pan.baidu.com/s/1DxWwK0FNItVZ43ZhbHSt7w?pwd=25xw)     提取码：25xw
 13. 根轨迹               链接：[https://pan.baidu.com/s/1pAxa5lkATkBJcZ9pKRDKKg?pwd=71cj](https://pan.baidu.com/s/1pAxa5lkATkBJcZ9pKRDKKg?pwd=71cj)     提取码：71cj
+14. 实验2                链接：[https://pan.baidu.com/s/1_ffLWnApJklfAWcwfS2Spg?pwd=riu6](https://pan.baidu.com/s/1_ffLWnApJklfAWcwfS2Spg?pwd=riu6)     提取码：riu6
+
+
 
 ## 神经网络与深度学习（21级研究生选修课）
 
