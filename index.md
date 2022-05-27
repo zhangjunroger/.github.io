@@ -18,6 +18,8 @@
 14. 实验2                链接：[https://pan.baidu.com/s/1_ffLWnApJklfAWcwfS2Spg?pwd=riu6](https://pan.baidu.com/s/1_ffLWnApJklfAWcwfS2Spg?pwd=riu6)     提取码：riu6
 15. 根轨迹2              链接：[https://pan.baidu.com/s/1ehWXhBrZChbvCMtubOP9vw?pwd=n92b](https://pan.baidu.com/s/1ehWXhBrZChbvCMtubOP9vw?pwd=n92b)     提取码：n92b
 16. 根轨迹3              链接：[https://pan.baidu.com/s/1kIvdYXnAug7THn6sGUOiLw?pwd=kjp7](https://pan.baidu.com/s/1kIvdYXnAug7THn6sGUOiLw?pwd=kjp7)     提取码：kjp7
+17. 频率特性1            链接：[https://pan.baidu.com/s/1S7LeENE_wsHI-mE80cr6zw?pwd=8oyz](https://pan.baidu.com/s/1S7LeENE_wsHI-mE80cr6zw?pwd=8oyz)     提取码：8oyz
+18. 频率特性2            链接：[https://pan.baidu.com/s/1OG-dltIzbDTpzTPT3QbGmg?pwd=547u](https://pan.baidu.com/s/1OG-dltIzbDTpzTPT3QbGmg?pwd=547u)     提取码：547u
 
 
 ## 神经网络与深度学习（21级研究生选修课）
