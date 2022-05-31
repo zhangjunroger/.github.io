@@ -1,3 +1,6 @@
+# 梦在前方
+<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe>
+
 # 张俊的课程回放
 
 ## 自动控制原理（20级智能科学与技术专业本科生）
