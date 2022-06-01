@@ -9,7 +9,7 @@
 
 1. 控制系统导论1           链接：[https://pan.baidu.com/s/1vHvyMGwbm5uVsxb-0U0_dw?pwd=qmcj](https://pan.baidu.com/s/1vHvyMGwbm5uVsxb-0U0_dw?pwd=qmcj)    提取码：qmcj
 2. 控制系统导论2           链接：[https://pan.baidu.com/s/1KaBZlpTqGaOsDgtu564mgQ?pwd=yn80](https://pan.baidu.com/s/1KaBZlpTqGaOsDgtu564mgQ?pwd=yn80)    提取码：yn80
-3. 拉普拉斯变换            链接：[https://pan.baidu.com/s/11koTJsfGG1VK9CAYVv1oCQ?pwd=oa0v](https://pan.baidu.com/s/11koTJsfGG1VK9CAYVv1oCQ?pwd=oa0v)    提取码：oa0v
+3. 拉普拉斯变换            链接：[https://pan.baidu.com/s/1jT6a5IB2yl3ACRyl84qtig?pwd=c048](https://pan.baidu.com/s/1jT6a5IB2yl3ACRyl84qtig?pwd=c048)    提取码：oa0v
 4. 控制系统的时域数学模型   链接：[https://pan.baidu.com/s/1cTfhq0NCbvvm8uXdmLzwww?pwd=u80d](https://pan.baidu.com/s/1cTfhq0NCbvvm8uXdmLzwww?pwd=u80d)    提取码：u80d
 5. 控制系统的复域数学模型   链接：[https://pan.baidu.com/s/11yPIw3Bfal2HYArn3L9HnA?pwd=k8bx](https://pan.baidu.com/s/11yPIw3Bfal2HYArn3L9HnA?pwd=k8bx)    提取码：k8bx
 6. 控制系统的结构图1       链接：[https://pan.baidu.com/s/1VJLmAMrVTSz9KaCtJOqoDA?pwd=6fd4](https://pan.baidu.com/s/1VJLmAMrVTSz9KaCtJOqoDA?pwd=6fd4)    提取码：6fd4
