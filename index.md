@@ -27,6 +27,10 @@
 18. 频率特性2            链接：[https://pan.baidu.com/s/1OG-dltIzbDTpzTPT3QbGmg?pwd=547u](https://pan.baidu.com/s/1OG-dltIzbDTpzTPT3QbGmg?pwd=547u)     提取码：547u
 19. 频率特性3            链接：[https://pan.baidu.com/s/1yeAxcBcHTQRv6FJntxOjaw?pwd=10ry](https://pan.baidu.com/s/1yeAxcBcHTQRv6FJntxOjaw?pwd=10ry)     提取码：10ry
 20. 频率特性4            链接：[https://pan.baidu.com/s/1sbiGNQJ_2w6aiC1JWtTElA?pwd=dmeg](https://pan.baidu.com/s/1sbiGNQJ_2w6aiC1JWtTElA?pwd=dmeg)     提取码：dmeg
+21. 稳定裕度             链接：[https://pan.baidu.com/s/1IK27ISNrWinkK6Q1p2OwUg?pwd=gak8](https://pan.baidu.com/s/1IK27ISNrWinkK6Q1p2OwUg?pwd=gak8)     提取码：gak8
+22. 串联超前校正          链接：[https://pan.baidu.com/s/1IfX2jSV6jQKtMOXzLd45zg?pwd=u2a1](https://pan.baidu.com/s/1IfX2jSV6jQKtMOXzLd45zg?pwd=u2a1)     提取码：u2a1
+
+
 
 ## 神经网络与深度学习（21级研究生选修课）
 
