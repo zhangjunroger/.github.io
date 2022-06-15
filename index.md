@@ -32,6 +32,8 @@
 23. 串联滞后校正          链接：[https://pan.baidu.com/s/1zOqAOzHsUG8S1aZ0We2ntw?pwd=lvae](https://pan.baidu.com/s/1zOqAOzHsUG8S1aZ0We2ntw?pwd=lvae)     提取码：lvae
 24. 实验4                链接：[https://pan.baidu.com/s/1kPi5Th7WjqI9r4gEhWheyw?pwd=kqs3](https://pan.baidu.com/s/1kPi5Th7WjqI9r4gEhWheyw?pwd=kqs3)     提取码：kqs3
 25. 复习1                链接：[https://pan.baidu.com/s/1QpDOUcJWVr1kMZaGZlyPwQ?pwd=apv2](https://pan.baidu.com/s/1QpDOUcJWVr1kMZaGZlyPwQ?pwd=apv2)     提取码：apv2
+26. 复习2                链接：[https://pan.baidu.com/s/1Y7rmRv6Rh1getBRJkypkyg?pwd=3exa](https://pan.baidu.com/s/1Y7rmRv6Rh1getBRJkypkyg?pwd=3exa)     提取码：3exa
+
 
 ## 神经网络与深度学习（21级研究生选修课）
 
