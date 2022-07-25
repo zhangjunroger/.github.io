@@ -55,8 +55,8 @@
 3. 数学基础PDF                 [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
 4. chap01-绪论 PPT             [https://wwi.lanzoup.com/iZwi308cbjxe](https://wwi.lanzoup.com/iZwi308cbjxe)
 5. chap02-机器学习概述 PPT      [https://wwi.lanzoup.com/itHeD08cbk5c](https://wwi.lanzoup.com/itHeD08cbk5c)
-6. chap03-线性模型 PPT         [https://wwi.lanzoup.com/izPJY08c845i](https://wwi.lanzoup.com/izPJY08c845i)
-7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/irxAY08c846j](https://wwi.lanzoup.com/irxAY08c846j)
-8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/i0oT308cbkeb](https://wwi.lanzoup.com/i0oT308cbkeb)
+6. chap03-线性模型 PPT         [https://wwi.lanzoup.com/i0oT308cbkeb](https://wwi.lanzoup.com/i0oT308cbkeb)
+7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/imTV508cbkkh](https://wwi.lanzoup.com/imTV508cbkkh)
+8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/i4GjL08cbkvi](https://wwi.lanzoup.com/i4GjL08cbkvi)
 9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
 10. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
