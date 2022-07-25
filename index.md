@@ -44,7 +44,7 @@
 
 ## 计算机控制系统（22级控制工程专业研究生）
 
-1. 教材pdf                    [https://wwi.lanzoup.com/idAdm08ca8wb](https://wwi.lanzoup.com/idAdm08ca8wb)
+1. 教材pdf                    [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
 2. 第1章 绪论
 
 
