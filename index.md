@@ -20,7 +20,7 @@
 11. 第8章 深度神经网络—卷积神经网络 PPT     [https://wwi.lanzoup.com/ioreL08c84eh](https://wwi.lanzoup.com/ioreL08c84eh)
 12. 第9章  支持向量机基本原理 PPT          [https://wwi.lanzoup.com/i5FVk08c84gj](https://wwi.lanzoup.com/i5FVk08c84gj)
 13. 《神经网络与深度学习》上机指导书PDF      [https://wwi.lanzoup.com/iecrc08c868d](https://wwi.lanzoup.com/iecrc08c868d)
-14.沈阳工业大学实验报告(计算机程序设计类)     [https://wwi.lanzoup.com/iEcxn08c86ch](https://wwi.lanzoup.com/iEcxn08c86ch)
+14. 沈阳工业大学实验报告(计算机程序设计类)    [https://wwi.lanzoup.com/iEcxn08c86ch](https://wwi.lanzoup.com/iEcxn08c86ch)
 15. 数学基础PDF                    [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
 16. 参考书文件夹PDF                 [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
 
