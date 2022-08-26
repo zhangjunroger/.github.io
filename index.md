@@ -39,13 +39,19 @@
 10. 第3章习题解答pdf                    [https://wwi.lanzoup.com/iGAB808ca4oj](https://wwi.lanzoup.com/iGAB808ca4oj)
 11. 第4章习题解答pdf                    [https://wwi.lanzoup.com/iFGjl08ca4pa](https://wwi.lanzoup.com/iFGjl08ca4pa)
 12. 第5章习题解答pdf                    [https://wwi.lanzoup.com/iHT4f08ca4qb](https://wwi.lanzoup.com/iHT4f08ca4qb)
-9. 第6章习题解答pdf                    [https://wwi.lanzoup.com/iwVou08ca4rc](https://wwi.lanzoup.com/iwVou08ca4rc)
-10. 运动控制系统实验指导书pdf             [https://wwi.lanzoup.com/iILPT08ca83c](https://wwi.lanzoup.com/iILPT08ca83c)
+13. 第6章习题解答pdf                    [https://wwi.lanzoup.com/iwVou08ca4rc](https://wwi.lanzoup.com/iwVou08ca4rc)
+14. 运动控制系统实验指导书pdf             [https://wwi.lanzoup.com/iILPT08ca83c](https://wwi.lanzoup.com/iILPT08ca83c)
 
 ## 计算机控制系统（22级控制工程专业研究生）
 
-1. 教材pdf                    [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
-2. 第1章 绪论
+1. 教材pdf                       [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
+2. chap1_计算机控制系统概述        [https://wwi.lanzoup.com/ivcdx0aaklah](https://wwi.lanzoup.com/ivcdx0aaklah)
+3. chap2_信号转换与z变换           [https://wwi.lanzoup.com/iC0BO0aaklbi](https://wwi.lanzoup.com/iC0BO0aaklbi)
+4. chap3_数学描述与性能分析         [https://wwi.lanzoup.com/ibgCf0aaklda](https://wwi.lanzoup.com/ibgCf0aaklda)
+5. chap4_模拟化设计方法            [https://wwi.lanzoup.com/isf5z0aaklfc](https://wwi.lanzoup.com/isf5z0aaklfc)
+6. chap5_直接设计方法              [https://wwi.lanzoup.com/iegfB0aaklhe](https://wwi.lanzoup.com/iegfB0aaklhe)
+7. chap6_极点配置设计方法           [https://wwi.lanzoup.com/iAwU10aakljg](https://wwi.lanzoup.com/iAwU10aakljg)
+8. chap7_先进控制规律的设计方法      [https://wwi.lanzoup.com/imrd30aaklkh](https://wwi.lanzoup.com/imrd30aaklkh)
 
 
 ## 神经网络与深度学习（21级研究生）
