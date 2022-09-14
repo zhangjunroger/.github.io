@@ -52,6 +52,7 @@
 6. chap5_直接设计方法              [https://wwi.lanzoup.com/iegfB0aaklhe](https://wwi.lanzoup.com/iegfB0aaklhe)
 7. chap6_极点配置设计方法           [https://wwi.lanzoup.com/iAwU10aakljg](https://wwi.lanzoup.com/iAwU10aakljg)
 8. chap7_先进控制规律的设计方法      [https://wwi.lanzoup.com/imrd30aaklkh](https://wwi.lanzoup.com/imrd30aaklkh)
+9. 课后习题参考答案                 [https://wwi.lanzoup.com/iFtO20bp0evc](https://wwi.lanzoup.com/iFtO20bp0evc) 
 
 
 ## 神经网络与深度学习（21级研究生）
