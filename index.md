@@ -1,4 +1,6 @@
 # 张俊的课程资源
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀✍💯 张俊的课程资源 🚀✍💯&center=true&size=30"> </a> </h1>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhangjunroger" /> </div>
 
 # 梦在前方
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe>
