@@ -25,6 +25,8 @@
 14. 沈阳工业大学实验报告(计算机程序设计类)    [https://wwi.lanzoup.com/iEcxn08c86ch](https://wwi.lanzoup.com/iEcxn08c86ch)
 15. 数学基础PDF                    [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
 16. 参考书文件夹PDF                 [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
+17. Pycharm_2020.2   [https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu](https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu)
+18. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1N60-2UfmYkAZmCKsU644cA?pwd=deu9](https://pan.baidu.com/s/1N60-2UfmYkAZmCKsU644cA?pwd=deu9)
 
 
 ## 运动控制系统（20级智能科学与技术专业本科生）
@@ -43,6 +45,9 @@
 12. 第5章习题解答pdf                    [https://wwi.lanzoup.com/iHT4f08ca4qb](https://wwi.lanzoup.com/iHT4f08ca4qb)
 13. 第6章习题解答pdf                    [https://wwi.lanzoup.com/iwVou08ca4rc](https://wwi.lanzoup.com/iwVou08ca4rc)
 14. 运动控制系统实验指导书pdf             [https://wwi.lanzoup.com/iILPT08ca83c](https://wwi.lanzoup.com/iILPT08ca83c)
+15. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
+16. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
+17. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
 ## 计算机控制系统（22级控制工程专业研究生）
 
@@ -55,9 +60,11 @@
 7. chap6_极点配置设计方法           [https://wwi.lanzoup.com/iAwU10aakljg](https://wwi.lanzoup.com/iAwU10aakljg)
 8. chap7_先进控制规律的设计方法      [https://wwi.lanzoup.com/imrd30aaklkh](https://wwi.lanzoup.com/imrd30aaklkh)
 9. 课后习题参考答案                 [https://wwi.lanzoup.com/iFtO20bp0evc](https://wwi.lanzoup.com/iFtO20bp0evc) 
+10. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
+11. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
+12. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
-
-## 神经网络与深度学习（21级研究生）
+## 神经网络与深度学习（22级研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
 2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
@@ -69,3 +76,19 @@
 8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/i4GjL08cbkvi](https://wwi.lanzoup.com/i4GjL08cbkvi)
 9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
 10. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
+11. Pycharm_2020.2   [https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu](https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu)
+12. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1N60-2UfmYkAZmCKsU644cA?pwd=deu9](https://pan.baidu.com/s/1N60-2UfmYkAZmCKsU644cA?pwd=deu9)
+
+## 智能控制（22级研究生）
+
+1. 教材pdf                    [https://pan.baidu.com/s/1fKtPGch1HaZvp2n1rXq66A?pwd=q4ha](https://pan.baidu.com/s/1fKtPGch1HaZvp2n1rXq66A?pwd=q4ha)
+2. 第1章  绪论 PPT             [https://wwi.lanzoup.com/ikyZJ0fwhkte](https://wwi.lanzoup.com/ikyZJ0fwhkte)
+3. 第2章 模糊控制论－理论基础 PPT [https://wwi.lanzoup.com/i5B6A0fwhl7i](https://wwi.lanzoup.com/i5B6A0fwhl7i)
+4. 第2章 模糊控制论－控制系统 PPT [https://wwi.lanzoup.com/ij2ES0fwhl0b](https://wwi.lanzoup.com/ij2ES0fwhl0b)
+5. 第3章 人工神经元网络控制论－网络模型 PPT  [https://wwi.lanzoup.com/ig1oW0fwhl9a](https://wwi.lanzoup.com/ig1oW0fwhl9a)
+6. 第3章 人工神经元网络控制论－控制基础 PPT  [https://wwi.lanzoup.com/iqE7n0fwhl8j](https://wwi.lanzoup.com/iqE7n0fwhl8j)
+7. 智能控制基础课后习题答案 PDF   [https://wwi.lanzoup.com/ib1Zv0fwhlab](https://wwi.lanzoup.com/ib1Zv0fwhlab)
+8. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
+9. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
+9. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
+
