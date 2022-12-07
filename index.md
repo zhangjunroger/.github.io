@@ -20,7 +20,7 @@
 9. 第8章 深度神经网络—堆栈式自动编码器 PPT  [https://wwi.lanzoup.com/iN90k08c84be](https://wwi.lanzoup.com/iN90k08c84be)
 10. 第8章 深度神经网络—受限玻尔兹曼机 PPT   [https://wwi.lanzoup.com/i45dH08c84fi](https://wwi.lanzoup.com/i45dH08c84fi)
 11. 第8章 深度神经网络—卷积神经网络 PPT     [https://wwi.lanzoup.com/ioreL08c84eh](https://wwi.lanzoup.com/ioreL08c84eh)
-12. 第9章  支持向量机基本原理 PPT          [https://wwi.lanzoup.com/i5FVk08c84gj](https://wwi.lanzoup.com/i5FVk08c84gj)
+12. 第9章  支持向量机基本原理 PPT          [https://wwi.lanzoup.com/iiaAb0i15nsb](https://wwi.lanzoup.com/iiaAb0i15nsb)]
 13. 《神经网络与深度学习》上机指导书PDF      [https://wwi.lanzoup.com/iecrc08c868d](https://wwi.lanzoup.com/iecrc08c868d)
 14. 沈阳工业大学实验报告(计算机程序设计类)    [https://wwi.lanzoup.com/iEcxn08c86ch](https://wwi.lanzoup.com/iEcxn08c86ch)
 15. 数学基础PDF                    [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
