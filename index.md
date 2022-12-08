@@ -19,7 +19,7 @@
 8. 第8章 深度神经网络 PPT           [https://wwi.lanzoup.com/iY75608c849c](https://wwi.lanzoup.com/iY75608c849c)
 9. 第8章 深度神经网络—堆栈式自动编码器 PPT  [https://wwi.lanzoup.com/iN90k08c84be](https://wwi.lanzoup.com/iN90k08c84be)
 10. 第8章 深度神经网络—受限玻尔兹曼机 PPT   [https://wwi.lanzoup.com/i45dH08c84fi](https://wwi.lanzoup.com/i45dH08c84fi)
-11. 第8章 深度神经网络—卷积神经网络 PPT     [https://wwi.lanzoup.com/ioreL08c84eh](https://wwi.lanzoup.com/ioreL08c84eh)
+11. 第8章 深度神经网络—卷积神经网络 PPT     [https://wwi.lanzoup.com/iIAaG0i4ryba](https://wwi.lanzoup.com/iIAaG0i4ryba)
 12. 第9章  支持向量机基本原理 PPT          [https://wwi.lanzoup.com/iiaAb0i15nsb](https://wwi.lanzoup.com/iiaAb0i15nsb)]
 13. 《神经网络与深度学习》上机指导书PDF      [https://wwi.lanzoup.com/iecrc08c868d](https://wwi.lanzoup.com/iecrc08c868d)
 14. 沈阳工业大学实验报告(计算机程序设计类)    [https://wwi.lanzoup.com/iEcxn08c86ch](https://wwi.lanzoup.com/iEcxn08c86ch)
@@ -73,7 +73,7 @@
 5. chap02-机器学习概述 PPT      [https://wwi.lanzoup.com/itHeD08cbk5c](https://wwi.lanzoup.com/itHeD08cbk5c)
 6. chap03-线性模型 PPT         [https://wwi.lanzoup.com/i0oT308cbkeb](https://wwi.lanzoup.com/i0oT308cbkeb)
 7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/imTV508cbkkh](https://wwi.lanzoup.com/imTV508cbkkh)
-8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/i4GjL08cbkvi](https://wwi.lanzoup.com/i4GjL08cbkvi)
+8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/iqiet0i4s1mj](https://wwi.lanzoup.com/iqiet0i4s1mj)
 9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
 10. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
 11. Pycharm_2020.2   [https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu](https://pan.baidu.com/s/1zsodqqGIPlPg-5EB0OMX7w?pwd=ipcu)
