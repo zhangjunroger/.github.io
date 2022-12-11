@@ -90,5 +90,5 @@
 7. 智能控制基础课后习题答案 PDF   [https://wwi.lanzoup.com/ib1Zv0fwhlab](https://wwi.lanzoup.com/ib1Zv0fwhlab)
 8. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
 9. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
-9. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
+10. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
