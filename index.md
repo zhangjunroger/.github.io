@@ -1,9 +1,40 @@
 # 张俊的课程资源
-<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=🚀✍💯 张俊的课程资源 🚀✍💯&center=true&size=30"> </a> </h1>
+
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhangjunroger" /> </div>
+
+<div align="center"> <!-- #BeginDate format:fcCh2m -->2022年12月11日 星期日  21:19<!-- #EndDate --> </div>
 
 # 梦在前方
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe>
+
+# 作业提交
+
+<body>
+<form id="form1" name="form1" method="post" action="">
+  <label for="1">学号：</label>
+  <input type="text" name="1" id="1" />
+</form>
+
+
+<form id="form2" name="form2" method="post" action="">
+  <label for="2">姓名：</label>
+  <input type="text" name="2" id="2" />
+</form>
+
+
+<form id="form3" name="form3" method="post" action="">
+  <label for="3">专业：</label>
+  <input type="text" name="3" id="3" />
+</form>
+
+
+<form id="form4" name="form4" method="post" action="">
+  <label for="4">课程：</label>
+  <input type="text" name="4" id="4" />
+</form>
+</body>
+
+#
 
 # 张俊的课程资源
 
