@@ -9,6 +9,23 @@
 
 # 作业提交
 
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>作业提交！</title>
+<!-- TemplateEndEditable -->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<script>
+   function tijiao(){
+     alert("开发中，敬请期待！...")
+   }
+</script>
+
 <body>
 <form id="form1" name="form1" method="post" action="">
   <label for="1">学号：</label>
@@ -40,10 +57,12 @@
  </form>
 <form id="form6" name="form6" method="post" action="">
   提交：
-  <input type="submit" name="6" id="6" value="提交文件" />
+  <input type="submit" name="6" id="6" value="提交文件" onclick="tijiao()"/>
 </form>
-</body>
 
+
+</body>
+</html>
 #
 
 # 张俊的课程资源
