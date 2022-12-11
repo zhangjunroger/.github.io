@@ -5,32 +5,42 @@
 <div align="center"> <!-- #BeginDate format:fcCh2m -->2022年12月11日 星期日  21:19<!-- #EndDate --> </div>
 
 # 梦在前方
-<iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe>
+<div align="center"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe> </div>
 
 # 作业提交
 
 <body>
 <form id="form1" name="form1" method="post" action="">
   <label for="1">学号：</label>
-  <input type="text" name="1" id="1" />
+  <input name="1" type="text" id="1" value="221301100" />
 </form>
 
 
 <form id="form2" name="form2" method="post" action="">
   <label for="2">姓名：</label>
-  <input type="text" name="2" id="2" />
+  <input name="2" type="text" id="2" value="某某某" />
 </form>
 
 
 <form id="form3" name="form3" method="post" action="">
   <label for="3">专业：</label>
-  <input type="text" name="3" id="3" />
+  <input name="3" type="text" id="3" value="智能科学与技术" />
 </form>
 
 
 <form id="form4" name="form4" method="post" action="">
   <label for="4">课程：</label>
-  <input type="text" name="4" id="4" />
+  <input name="4" type="text" id="4" value="神经网络与深度学习" />
+</form>
+
+
+<form id="form5" name="form5" enctype="multipart/form-data" method="post" action="">
+  <label for="5">文件：   </label>
+  <input type="file" name="5" id="5" />
+ </form>
+<form id="form6" name="form6" method="post" action="">
+  提交：
+  <input type="submit" name="6" id="6" value="提交文件" />
 </form>
 </body>
 
