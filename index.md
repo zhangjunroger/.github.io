@@ -8,13 +8,6 @@
  h1 {
  text-align: center;
  }
- 
- div {
- width: 400px;
- height: 400px;
- margin: 10px auto;
- padding: 0;
- }
  </style>
  </head>
  
