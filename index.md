@@ -208,7 +208,7 @@
 
 # 张俊的课程资源
 
-## 神经网络与深度学习（20级智能科学与技术专业本科生、信息与计算科学专业本科生）
+## 神经网络与深度学习（21、22级智能科学与技术、工业智能、信息与计算科学专业本科生）
 
 1. 教材PDF                        [https://wwi.lanzoup.com/isO9O08c83xa](https://wwi.lanzoup.com/isO9O08c83xa)
 2. Python入门 PPT                 [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
@@ -250,7 +250,7 @@
 16. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
 17. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
-## 计算机控制系统（22级控制工程专业研究生）
+## 计算机控制系统（23级控制工程专业研究生）
 
 1. 教材pdf                       [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
 2. chap1_计算机控制系统概述        [https://wwi.lanzoup.com/ivcdx0aaklah](https://wwi.lanzoup.com/ivcdx0aaklah)
@@ -265,7 +265,7 @@
 11. matlab R2021a   [https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0](https://pan.baidu.com/s/1h63tYeqlfWgLfvYcL71fZw?pwd=h2v0)
 12. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
-## 神经网络与深度学习（22级研究生）
+## 神经网络与深度学习（23级研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
 2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
