@@ -222,7 +222,7 @@
 
 1. 教材PDF                        [https://wwi.lanzoup.com/isO9O08c83xa](https://wwi.lanzoup.com/isO9O08c83xa)
 2. Python入门 PPT                 [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
-3. 第1章 绪论 PPT                  [https://wwi.lanzoup.com/ifJn408c842f](https://wwi.lanzoup.com/ifJn408c842f)
+3. 第1章 绪论 PPT                  [https://wwi.lanzoup.com/ipC6N15kj1vi](https://wwi.lanzoup.com/ipC6N15kj1vi)
 4. 第2章 人工神经网络建模基础 PPT    [https://wwi.lanzoup.com/ikj4W08c843g](https://wwi.lanzoup.com/ikj4W08c843g)
 5. 第3章 感知器神经网络 PPT         [https://wwi.lanzoup.com/izPJY08c845i](https://wwi.lanzoup.com/izPJY08c845i)
 6. 第5章 径向基函数神经网络 PPT      [https://wwi.lanzoup.com/irxAY08c846j](https://wwi.lanzoup.com/irxAY08c846j)
