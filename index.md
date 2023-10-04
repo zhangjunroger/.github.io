@@ -239,27 +239,6 @@
 17. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
 18. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
 
-
-## 运动控制系统（20级智能科学与技术专业本科生）
-
-1. 教材pdf                    [https://wwi.lanzoup.com/idAdm08ca8wb](https://wwi.lanzoup.com/idAdm08ca8wb)
-2. 第1章 绪论 PPT              [https://wwi.lanzoup.com/iv3wN08ca1if](https://wwi.lanzoup.com/iv3wN08ca1if)
-3. 第2章 转速开环控制的直流调速系统 PPT  [https://wwi.lanzoup.com/iInyL08ca1kh](https://wwi.lanzoup.com/iInyL08ca1kh)
-4. 第3章 转速闭环控制的直流调速系统 PPT  [https://wwi.lanzoup.com/igXbm08ca1ob](https://wwi.lanzoup.com/igXbm08ca1ob)
-5. 第4章 转速、电流反馈控制的直流调速系统 PPT [https://wwi.lanzoup.com/iVEFC08ca1qd](https://wwi.lanzoup.com/iVEFC08ca1qd)
-6. 第5章 直流调速系统的数字控制 PPT      [https://wwi.lanzoup.com/iSuJv08ca1sf](https://wwi.lanzoup.com/iSuJv08ca1sf)
-7. 第6章 基于稳态模型的异步电动机调速系统 PPT  [https://wwi.lanzoup.com/irxo708ca1uh](https://wwi.lanzoup.com/irxo708ca1uh)
-8. 三相异步电动机课件 PPT                   [https://wwi.lanzoup.com/iaAQi08ca3ze](https://wwi.lanzoup.com/iaAQi08ca3ze)
-9. 第2章习题解答pdf                    [https://wwi.lanzoup.com/icTuW08ca4lg](https://wwi.lanzoup.com/icTuW08ca4lg)
-10. 第3章习题解答pdf                    [https://wwi.lanzoup.com/iGAB808ca4oj](https://wwi.lanzoup.com/iGAB808ca4oj)
-11. 第4章习题解答pdf                    [https://wwi.lanzoup.com/iFGjl08ca4pa](https://wwi.lanzoup.com/iFGjl08ca4pa)
-12. 第5章习题解答pdf                    [https://wwi.lanzoup.com/iHT4f08ca4qb](https://wwi.lanzoup.com/iHT4f08ca4qb)
-13. 第6章习题解答pdf                    [https://wwi.lanzoup.com/iwVou08ca4rc](https://wwi.lanzoup.com/iwVou08ca4rc)
-14. 运动控制系统实验指导书pdf             [https://wwi.lanzoup.com/iILPT08ca83c](https://wwi.lanzoup.com/iILPT08ca83c)
-15. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
-16. matlab R2021a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
-17. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
-
 ## 计算机控制系统（23级控制工程专业研究生）
 
 1. 教材pdf                       [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
@@ -303,3 +282,23 @@
 9. matlab R2021a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
 10. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
 
+
+## 运动控制系统（20级智能科学与技术专业本科生）
+
+1. 教材pdf                    [https://wwi.lanzoup.com/idAdm08ca8wb](https://wwi.lanzoup.com/idAdm08ca8wb)
+2. 第1章 绪论 PPT              [https://wwi.lanzoup.com/iv3wN08ca1if](https://wwi.lanzoup.com/iv3wN08ca1if)
+3. 第2章 转速开环控制的直流调速系统 PPT  [https://wwi.lanzoup.com/iInyL08ca1kh](https://wwi.lanzoup.com/iInyL08ca1kh)
+4. 第3章 转速闭环控制的直流调速系统 PPT  [https://wwi.lanzoup.com/igXbm08ca1ob](https://wwi.lanzoup.com/igXbm08ca1ob)
+5. 第4章 转速、电流反馈控制的直流调速系统 PPT [https://wwi.lanzoup.com/iVEFC08ca1qd](https://wwi.lanzoup.com/iVEFC08ca1qd)
+6. 第5章 直流调速系统的数字控制 PPT      [https://wwi.lanzoup.com/iSuJv08ca1sf](https://wwi.lanzoup.com/iSuJv08ca1sf)
+7. 第6章 基于稳态模型的异步电动机调速系统 PPT  [https://wwi.lanzoup.com/irxo708ca1uh](https://wwi.lanzoup.com/irxo708ca1uh)
+8. 三相异步电动机课件 PPT                   [https://wwi.lanzoup.com/iaAQi08ca3ze](https://wwi.lanzoup.com/iaAQi08ca3ze)
+9. 第2章习题解答pdf                    [https://wwi.lanzoup.com/icTuW08ca4lg](https://wwi.lanzoup.com/icTuW08ca4lg)
+10. 第3章习题解答pdf                    [https://wwi.lanzoup.com/iGAB808ca4oj](https://wwi.lanzoup.com/iGAB808ca4oj)
+11. 第4章习题解答pdf                    [https://wwi.lanzoup.com/iFGjl08ca4pa](https://wwi.lanzoup.com/iFGjl08ca4pa)
+12. 第5章习题解答pdf                    [https://wwi.lanzoup.com/iHT4f08ca4qb](https://wwi.lanzoup.com/iHT4f08ca4qb)
+13. 第6章习题解答pdf                    [https://wwi.lanzoup.com/iwVou08ca4rc](https://wwi.lanzoup.com/iwVou08ca4rc)
+14. 运动控制系统实验指导书pdf             [https://wwi.lanzoup.com/iILPT08ca83c](https://wwi.lanzoup.com/iILPT08ca83c)
+15. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
+16. matlab R2021a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
+17. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
