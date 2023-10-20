@@ -269,6 +269,21 @@
 11. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
 12. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
 
+## 深度学习理论及应用（23级人工智能学院博士研究生）
+
+1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
+2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
+3. 数学基础PDF                 [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
+4. chap01-绪论 PPT             [https://wwi.lanzoup.com/iZwi308cbjxe](https://wwi.lanzoup.com/iZwi308cbjxe)
+5. chap02-机器学习概述 PPT      [https://wwi.lanzoup.com/itHeD08cbk5c](https://wwi.lanzoup.com/itHeD08cbk5c)
+6. chap03-线性模型 PPT         [https://wwi.lanzoup.com/i0oT308cbkeb](https://wwi.lanzoup.com/i0oT308cbkeb)
+7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/imTV508cbkkh](https://wwi.lanzoup.com/imTV508cbkkh)
+8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/iqiet0i4s1mj](https://wwi.lanzoup.com/iqiet0i4s1mj)
+9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
+10. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
+11. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
+12. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
+
 ## 智能控制（22级研究生）
 
 1. 教材pdf                    [https://pan.baidu.com/s/1fKtPGch1HaZvp2n1rXq66A?pwd=q4ha](https://pan.baidu.com/s/1fKtPGch1HaZvp2n1rXq66A?pwd=q4ha)
