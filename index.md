@@ -175,7 +175,15 @@
 <br>
 <br>
 
-
+# 常用软件下载
+<br>
+<br>
+<div align="center">
+<input type="button" name="7" id="7" style="background-color: red; color: white; font-size: 18px; padding: 10px 20px;" value="常用软件下载！" onclick="window.location.href='../index2.md'" />
+</div>
+<br>
+<br>
+<br>
 
 # 作业提交
 <body>
@@ -217,6 +225,12 @@
 </body>
 
 # 张俊的课程资源
+
+## 自动控制原理（22级工业智能专业本科生）
+
+1. 教材PDF                    [https://wwi.lanzoup.com/iiBo51lh7ptg](https://wwi.lanzoup.com/iiBo51lh7ptg)
+2. PPT                        [https://wwi.lanzoup.com/i99fr1lh83md](https://wwi.lanzoup.com/i99fr1lh83md)
+3. 控制理论MATLAB教程.pdf      [https://wwi.lanzoup.com/inmvf1lh88fg](https://wwi.lanzoup.com/inmvf1lh88fg)
 
 ## 神经网络与深度学习（21、22级智能科学与技术、工业智能、信息与计算科学专业本科生）
 
