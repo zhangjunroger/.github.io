@@ -3,7 +3,7 @@
 <head>  
     <meta charset="UTF-8">  
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
-    <title>Course Scheduling System</title>  
+    <title>人工智能学院—教室、会议室、实验室—预定系统</title>  
     <link rel="stylesheet" href="styles.css">  
 </head>  
 <body>  
@@ -11,12 +11,12 @@
         <h1>人工智能学院—教室、会议室、实验室—预定系统</h1>  
         <div id="auth">  
             <input type="email" id="email" placeholder="工号">  
-            <input type="password" id="password" placeholder="Password">  
-            <button onclick="register()">Register</button>  
-            <button onclick="login()">Login</button>  
+            <input type="password" id="password" placeholder="密码">  
+            <button onclick="register()">注册</button>  
+            <button onclick="login()">登录</button>  
         </div>  
         <div id="booking" style="display:none;">  
-            <h2>Book a Classroom</h2>  
+            <h2>预定房间</h2>  
             <input type="date" id="date">  
             <select id="period">  
                 <option value="1-2">1-2</option>  
@@ -26,7 +26,7 @@
                 <option value="9-10">9-10</option>  
             </select>  
             <input type="text" id="classroom" placeholder="房间号">  
-            <button onclick="bookClassroom()">Book</button>  
+            <button onclick="bookClassroom()">预定</button>  
         </div>  
     </div>  
     <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>  
