@@ -1,0 +1,37 @@
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Course Scheduling System</title>  
+    <link rel="stylesheet" href="styles.css">  
+</head>  
+<body>  
+    <div id="app">  
+        <h1>人工智能学院—教室、会议室、实验室—预定系统</h1>  
+        <div id="auth">  
+            <input type="email" id="email" placeholder="工号">  
+            <input type="password" id="password" placeholder="Password">  
+            <button onclick="register()">Register</button>  
+            <button onclick="login()">Login</button>  
+        </div>  
+        <div id="booking" style="display:none;">  
+            <h2>Book a Classroom</h2>  
+            <input type="date" id="date">  
+            <select id="period">  
+                <option value="1-2">1-2</option>  
+                <option value="3-4">3-4</option>  
+                <option value="5-6">5-6</option>  
+                <option value="7-8">7-8</option>  
+                <option value="9-10">9-10</option>  
+            </select>  
+            <input type="text" id="classroom" placeholder="房间号">  
+            <button onclick="bookClassroom()">Book</button>  
+        </div>  
+    </div>  
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-app.js"></script>  
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-auth.js"></script>  
+    <script src="https://www.gstatic.com/firebasejs/9.6.1/firebase-firestore.js"></script>  
+    <script src="app.js"></script>  
+</body>  
+</html>
