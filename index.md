@@ -234,6 +234,16 @@
 
 </body>
 
+# 人工智能学院-教室、实验室、会议室-预定系统！
+<br>
+<br>
+<div align="center">
+<input type="button" name="7" id="7" style="background-color: red; color: white; font-size: 18px; padding: 10px 20px;" value="会议室预定系统！" onclick="window.location.href='../index5.html'" />
+</div>
+<br>
+<br>
+<br>
+
 # 张俊的课程资源
 
 ## 自动控制原理（22级工业智能专业本科生）
