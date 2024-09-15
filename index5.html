@@ -11,26 +11,35 @@
     <script src="https://unpkg.com/leancloud-storage@4.13.0/dist/av-min.js"></script>  
     <div id="app">  
         <h1>人工智能学院—教室、会议室、实验室—预定系统</h1>  
-        <div id="auth">  
-            <input type="email" id="email" placeholder="邮箱">  
+        <div id="auth">
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">账号（邮箱）</p>   
+            <input type="email" id="email" placeholder="邮箱">
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">密码</p>   
             <input type="password" id="password" placeholder="密码">
-            <p style="color: red; font-weight: bold;">只有在注册账号时需要填写下面信息！</p> 
-            <input type="text" id="name" placeholder="姓名">  
+            <div style="text-align: center;">  
+                <p style="color: red; font-weight: bold;">只有在注册账号时需要填写下面信息！</p>  
+            </div>  
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">姓名</p> 
+            <input type="text" id="name" placeholder="姓名">
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">工号</p>   
             <input type="text" id="employeeId" placeholder="工号">  
             <button onclick="register()">注册</button>  
             <button onclick="login()">登录</button>
             <button onclick="deleteUser()">注销账号</button>
         </div>  
         <div id="booking" style="display:none;">  
-            <h2>预定房间</h2>  
-            <input type="date" id="date" placeholder="时间">  
+            <h2>预定房间</h2>
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">日期</p>   
+            <input type="date" id="date" placeholder="时间">
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">节次</p>   
             <select id="period" placeholder="节次">  
                 <option value="1-2">1-2</option>  
                 <option value="3-4">3-4</option>  
                 <option value="5-6">5-6</option>  
                 <option value="7-8">7-8</option>  
                 <option value="9-10">9-10</option>  
-            </select>  
+            </select>
+            <p style="color: rgb(0, 42, 255); font-weight: bold;">房间号</p>   
             <select id="classroom" placeholder="房间号">  
                 <option value="108党建活动室/党员活动中心">108党建活动室/党员活动中心</option>  
                 <option value="112工业智能本科专业实验室">112工业智能本科专业实验室</option>  
