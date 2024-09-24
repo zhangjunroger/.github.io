@@ -273,6 +273,8 @@
 16. 参考书文件夹PDF                 [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
 17. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
 18. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
+19. Pycharm_2024   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
+18. Pycharm_2024激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
 
 ## 计算机控制系统（24级控制工程专业研究生）
 
@@ -285,11 +287,13 @@
 7. chap6_极点配置设计方法           [https://wwi.lanzoup.com/iAwU10aakljg](https://wwi.lanzoup.com/iAwU10aakljg)
 8. chap7_先进控制规律的设计方法      [https://wwi.lanzoup.com/imrd30aaklkh](https://wwi.lanzoup.com/imrd30aaklkh)
 9. 课后习题参考答案                 [https://wwi.lanzoup.com/iFtO20bp0evc](https://wwi.lanzoup.com/iFtO20bp0evc) 
-10. matlab R2016b   [https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x](https://pan.baidu.com/s/1JQjLRFVpSHt5JacrCjjp6w?pwd=c39x)
+10. matlab R2016b   [https://pan.baidu.com/s/1RlT2DVUtFCeExRtHrwoYPQ?pwd=zmuw](https://pan.baidu.com/s/1RlT2DVUtFCeExRtHrwoYPQ?pwd=zmuw)
 11. matlab R2021a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
-12. matlab R2021a MAC  [https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg](https://pan.baidu.com/s/1-8H0IIL3-RVlJzR6LZAxdQ?pwd=pnwg)
+12. matlab R2023b   [https://pan.baidu.com/s/1XLUOoRVMoposO2H9ZMDNtw?pwd=u8zt](https://pan.baidu.com/s/1XLUOoRVMoposO2H9ZMDNtw?pwd=u8zt)
+13. matlab R2024a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
+14. matlab R2021a MAC  [https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg](https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg)
 
-## 神经网络与深度学习（24级研究生）
+## 神经网络与强化学习（24级研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
 2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
@@ -300,9 +304,10 @@
 7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/imTV508cbkkh](https://wwi.lanzoup.com/imTV508cbkkh)
 8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/iqiet0i4s1mj](https://wwi.lanzoup.com/iqiet0i4s1mj)
 9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
-10. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
-11. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
-12. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
+10. 
+11. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
+12. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
+13. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
 
 ## 深度学习理论及应用（24级人工智能学院博士研究生）
 
