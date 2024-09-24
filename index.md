@@ -273,8 +273,16 @@
 16. 参考书文件夹PDF                 [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
 17. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
 18. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
-19. Pycharm_2024   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
-18. Pycharm_2024激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
+19. Pycharm_2023安装包与激活   [https://pan.baidu.com/s/1ZApmSs5zVBNXwOTUx_EpYQ?pwd=57zt](https://pan.baidu.com/s/1ZApmSs5zVBNXwOTUx_EpYQ?pwd=57zt)
+18. Anaconda3-2024.06-1-Windows-x86_64安装包   [https://pan.baidu.com/s/10w0IglXCHt8v6qqCns_zdw?pwd=be1e](https://pan.baidu.com/s/10w0IglXCHt8v6qqCns_zdw?pwd=be1e)
+19. vscode1.87.2安装包   [https://wwfz.lanzouv.com/is57v2aqy5gj](https://wwfz.lanzouv.com/is57v2aqy5gj)
+20. python3.12.4安装包   [https://wwfz.lanzouv.com/iMM822aqy46d](https://wwfz.lanzouv.com/iMM822aqy46d)
+21. python3.11.3安装包   [https://wwfz.lanzouv.com/i8ikG2aqy3xe](https://wwfz.lanzouv.com/i8ikG2aqy3xe)
+20. python3.10.4安装包   [https://wwfz.lanzouv.com/iGzMG2aqy3qh](https://wwfz.lanzouv.com/iGzMG2aqy3qh)
+21. python3.9.1安装包   [https://wwfz.lanzouv.com/iD3yd2aqy3gh](https://wwfz.lanzouv.com/iD3yd2aqy3gh)
+22. python3.8.5安装包   [https://wwfz.lanzouv.com/i4WY92aqy38j](https://wwfz.lanzouv.com/i4WY92aqy38j)
+23. python3.7.9安装包   [https://wwfz.lanzouv.com/iW3s22aqy2yj](https://wwfz.lanzouv.com/iW3s22aqy2yj)
+24. python3.6.4安装包   [https://wwfz.lanzouv.com/iE59a2aqy2te](https://wwfz.lanzouv.com/iE59a2aqy2te)
 
 ## 计算机控制系统（24级控制工程专业研究生）
 
@@ -290,24 +298,34 @@
 10. matlab R2016b   [https://pan.baidu.com/s/1RlT2DVUtFCeExRtHrwoYPQ?pwd=zmuw](https://pan.baidu.com/s/1RlT2DVUtFCeExRtHrwoYPQ?pwd=zmuw)
 11. matlab R2021a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
 12. matlab R2023b   [https://pan.baidu.com/s/1XLUOoRVMoposO2H9ZMDNtw?pwd=u8zt](https://pan.baidu.com/s/1XLUOoRVMoposO2H9ZMDNtw?pwd=u8zt)
-13. matlab R2024a   [https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz](https://pan.baidu.com/s/1tpXTHPiqgKiu2w3uqTtjBA?pwd=p7yz)
+13. matlab R2024a   [https://pan.baidu.com/s/1ahC_b4lUopp5SiBUgvmH1A?pwd=ow7u](https://pan.baidu.com/s/1ahC_b4lUopp5SiBUgvmH1A?pwd=ow7u)
 14. matlab R2021a MAC  [https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg](https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg)
 
 ## 神经网络与强化学习（24级研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
-2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
+2. Python入门 PPT             [https://wwfz.lanzouv.com/iKNKH2aqzgbg](https://wwfz.lanzouv.com/iKNKH2aqzgbg)
 3. 数学基础PDF                 [https://wwi.lanzoup.com/iPZOR08c86af](https://wwi.lanzoup.com/iPZOR08c86af)
-4. chap01-绪论 PPT             [https://wwi.lanzoup.com/iZwi308cbjxe](https://wwi.lanzoup.com/iZwi308cbjxe)
-5. chap02-机器学习概述 PPT      [https://wwi.lanzoup.com/itHeD08cbk5c](https://wwi.lanzoup.com/itHeD08cbk5c)
-6. chap03-线性模型 PPT         [https://wwi.lanzoup.com/i0oT308cbkeb](https://wwi.lanzoup.com/i0oT308cbkeb)
-7. chap04-前馈神经网络 PPT      [https://wwi.lanzoup.com/imTV508cbkkh](https://wwi.lanzoup.com/imTV508cbkkh)
-8. chap05-卷积神经网络 PPT      [https://wwi.lanzoup.com/iqiet0i4s1mj](https://wwi.lanzoup.com/iqiet0i4s1mj)
+4. chap01-绪论 PPT             [https://wwfz.lanzouv.com/iDLW02aqzgqb](https://wwfz.lanzouv.com/iDLW02aqzgqb)
+5. chap02-机器学习概述 PPT      [https://wwfz.lanzouv.com/is9SN2aqzguf](https://wwfz.lanzouv.com/is9SN2aqzguf)
+6. chap03-线性模型 PPT         [https://wwfz.lanzouv.com/iVACQ2aqzgxi](https://wwfz.lanzouv.com/iVACQ2aqzgxi)
+7. chap04-前馈神经网络 PPT      [https://wwfz.lanzouv.com/iby5c2aqzh2d](https://wwfz.lanzouv.com/iby5c2aqzh2d)
+8. chap05-卷积神经网络 PPT      [https://wwfz.lanzouv.com/iHwfF2aqzhta](https://wwfz.lanzouv.com/iHwfF2aqzhta)
 9. chap06-循环神经网络 PPT      [https://wwi.lanzoup.com/ijGHn08cbkyb](https://wwi.lanzoup.com/ijGHn08cbkyb)
-10. 
+10. chap14-深度强化学习 PPT      [https://wwfz.lanzouv.com/iw1Je2aqzi2j](https://wwfz.lanzouv.com/iw1Je2aqzi2j)
 11. 参考书文件夹PDF             [https://wwi.lanzoup.com/b011utjof](https://wwi.lanzoup.com/b011utjof)   密码:8jif
 12. Pycharm_2020.2   [https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr](https://pan.baidu.com/s/147mqO_oPQy3VhwCclMD7Dw?pwd=lrgr)
 13. Pycharm_2020.2激活包   [https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf](https://pan.baidu.com/s/1yWBgTj5Yj3j8oYTUZdwJSQ?pwd=kaqf)
+14. Pycharm_2023安装包与激活   [https://pan.baidu.com/s/1ZApmSs5zVBNXwOTUx_EpYQ?pwd=57zt](https://pan.baidu.com/s/1ZApmSs5zVBNXwOTUx_EpYQ?pwd=57zt)
+15. Anaconda3-2024.06-1-Windows-x86_64安装包   [https://pan.baidu.com/s/10w0IglXCHt8v6qqCns_zdw?pwd=be1e](https://pan.baidu.com/s/10w0IglXCHt8v6qqCns_zdw?pwd=be1e)
+16. vscode1.87.2安装包   [https://wwfz.lanzouv.com/is57v2aqy5gj](https://wwfz.lanzouv.com/is57v2aqy5gj)
+17. python3.12.4安装包   [https://wwfz.lanzouv.com/iMM822aqy46d](https://wwfz.lanzouv.com/iMM822aqy46d)
+18. python3.11.3安装包   [https://wwfz.lanzouv.com/i8ikG2aqy3xe](https://wwfz.lanzouv.com/i8ikG2aqy3xe)
+19. python3.10.4安装包   [https://wwfz.lanzouv.com/iGzMG2aqy3qh](https://wwfz.lanzouv.com/iGzMG2aqy3qh)
+20. python3.9.1安装包   [https://wwfz.lanzouv.com/iD3yd2aqy3gh](https://wwfz.lanzouv.com/iD3yd2aqy3gh)
+21. python3.8.5安装包   [https://wwfz.lanzouv.com/i4WY92aqy38j](https://wwfz.lanzouv.com/i4WY92aqy38j)
+22. python3.7.9安装包   [https://wwfz.lanzouv.com/iW3s22aqy2yj](https://wwfz.lanzouv.com/iW3s22aqy2yj)
+23. python3.6.4安装包   [https://wwfz.lanzouv.com/iE59a2aqy2te](https://wwfz.lanzouv.com/iE59a2aqy2te)
 
 ## 深度学习理论及应用（24级人工智能学院博士研究生）
 
