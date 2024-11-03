@@ -48,6 +48,9 @@
 
     <script>  
         let timer;  
+        const reminderTimes = [30, 20, 10, 5]; // 需要提醒的时间（分钟）  
+        const reminded = new Set(); // 用于追踪已提醒的时间点  
+
         function startExam() {  
             const subject = document.getElementById("subject").value;  
             const startTime = new Date(document.getElementById("startTime").value);  
@@ -66,6 +69,7 @@
 
             clearInterval(timer);  
             updateInfo(subject, startTime, endTime);  
+            reminded.clear(); // 每次开始考试时清空已提醒的时间点  
             timer = setInterval(() => updateInfo(subject, startTime, endTime), 1000);  
         }  
 
@@ -75,17 +79,20 @@
             const remainingMinutes = Math.floor(remainingTime / 60000);  
 
             document.getElementById("info").innerHTML = `  
-                <p>当前时间: ${now.toLocaleTimeString()}</p>  
-                <p>考试科目: ${subject}</p>
-                <p>剩余时间: ${formatTime(remainingTime)}</p> 
+                <p>当前时间: ${now.toLocaleTimeString()}</p>
+                <p>考试科目: ${subject}</p>  
+                <p>剩余时间: ${formatTime(remainingTime)}</p>  
                 <p>考试开始时间: ${startTime.toLocaleString()}</p>  
                 <p>考试结束时间: ${endTime.toLocaleString()}</p>  
             `;  
 
             // 语音提醒  
-            if (remainingMinutes === 30 || remainingMinutes === 20 || remainingMinutes === 10) {  
-                speak(`距离${subject}考试结束还剩余 ${remainingMinutes} 分钟，请注意时间！`);  
-            }  
+            reminderTimes.forEach(minutes => {  
+                if (remainingMinutes === minutes && !reminded.has(minutes)) {  
+                    speak(`距离${subject}考试结束还剩余 ${minutes} 分钟，请注意时间！`);  
+                    reminded.add(minutes); // 添加到已提醒的集合中  
+                }  
+            });  
 
             if (remainingTime <= 0) {  
                 clearInterval(timer);  
