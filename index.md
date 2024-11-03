@@ -1,5 +1,4 @@
 # 张俊的课程资源
-
 <div align="center">
 <head>
  <meta charset="UTF-8">
@@ -14,9 +13,7 @@
  <body>
  
  <div>
- <canvas id="c1" width="200px" height="200px">
- 
- </canvas>
+ <canvas id="c1" width="200px" height="200px"></canvas>
  </div>
  
  <script type="text/javascript">
@@ -157,8 +154,53 @@
  
  }
  </script>
- </body>
+ </body> 
 </div>
+
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>实时北京时间</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            height: 100vh;  
+            background-color: #282c34; /* 深色背景 */  
+            color: #61dafb; /* 浅蓝色字体 */  
+            margin: 0;  
+        }  
+        #clock {  
+            font-size: 48px;  
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 字体阴影 */  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div id="clock"></div>  
+
+    <script>  
+        function updateTime() {  
+            // 获取当前时间（UTC时间）  
+            const now = new Date();  
+            // 将当前时间转换为北京时间（UTC+8）  
+            const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);  
+            // 格式化时间字符串  
+            const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };  
+            document.getElementById('clock').innerText = beijingTime.toLocaleTimeString('en-US', options);  
+        }  
+
+        // 每秒更新时间  
+        setInterval(updateTime, 1000);  
+        // 初始化显示时间  
+        updateTime();  
+    </script>  
+</body>  
+</html>  
+
 
 
 # 梦在前方
