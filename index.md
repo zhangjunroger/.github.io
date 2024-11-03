@@ -1,7 +1,10 @@
 # 张俊的课程资源
 
+<!DOCTYPE html>  
+<html lang="zh-CN">  
 <head>  
     <meta charset="utf-8" />  
+    <title>张俊的课程资源</title>  
     <style type="text/css">  
                 html,body,div,span,applet,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,a,abbr,acronym,address,big,cite,code,del,dfn,em,img,ins,kbd,q,s,samp,small,strike,strong,sub,sup,tt,var,b,u,i,center,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,embed,figure,figcaption,footer,header,hgroup,menu,nav,output,ruby,section,summary,time,mark,audio,video{margin:0;padding:0;border:0}body{font-family:Helvetica,arial,freesans,clean,sans-serif;font-size:14px;line-height:1.6;color:#333;background-color:#fff;padding:20px;max-width:960px;margin:0 auto}body>*:first-child{margin-top:0 !important}body>*:last-child{margin-bottom:0 !important}p,blockquote,ul,ol,dl,table,pre{margin:15px 0}h1,h2,h3,h4,h5,h6{margin:20px 0 10px;padding:0;font-weight:bold;-webkit-font-smoothing:antialiased}h1 tt,h1 code,h2 tt,h2 code,h3 tt,h3 code,h4 tt,h4 code,h5 tt,h5 code,h6 tt,h6 code{font-size:inherit}h1{font-size:28px;color:#000}h2{font-size:24px;border-bottom:1px solid #ccc;color:#000}h3{font-size:18px}h4{font-size:16px}h5{font-size:14px}h6{color:#777;font-size:14px}body>h2:first-child,body>h1:first-child,body>h1:first-child+h2,body>h3:first-child,body>h4:first-child,body>h5:first-child,body>h6:first-child{margin-top:0;padding-top:0}a:first-child h1,a:first-child h2,a:first-child h3,a:first-child h4,a:first-child h5,a:first-child h6{margin-top:0;padding-top:0}h1+p,h2+p,h3+p,h4+p,h5+p,h6+p{margin-top:10px}a{color:#4183c4;text-decoration:none}a:hover{text-decoration:underline}ul,ol{padding-left:30px}ul li>:first-child,ol li>:first-child,ul li ul:first-of-type,ol li ol:first-of-type,ul li ol:first-of-type,ol li ul:first-of-type{margin-top:0}ul ul,ul ol,ol ol,ol ul{margin-bottom:0}dl{padding:0}dl dt{font-size:14px;font-weight:bold;font-style:italic;padding:0;margin:15px 0 5px}dl dt:first-child{padding:0}dl dt>:first-child{margin-top:0}dl dt>:last-child{margin-bottom:0}dl dd{margin:0 0 15px;padding:0 15px}dl dd>:first-child{margin-top:0}dl dd>:last-child{margin-bottom:0}pre,code,tt{font-size:12px;font-family:Consolas,"Liberation Mono",Courier,monospace}code,tt{margin:0;padding:0;white-space:nowrap;border:1px solid #eaeaea;background-color:#f8f8f8;border-radius:3px}pre>code{margin:0;padding:0;white-space:pre;border:0;background:transparent}pre{background-color:#f8f8f8;border:1px solid #ccc;font-size:13px;line-height:19px;overflow:auto;padding:6px 10px;border-radius:3px}pre code,pre tt{background-color:transparent;border:0}blockquote{border-left:4px solid #DDD;padding:0 15px;color:#777}blockquote>:first-child{margin-top:0}blockquote>:last-child{margin-bottom:0}hr{clear:both;margin:15px 0;height:0;overflow:hidden;border:0;background:transparent;border-bottom:4px solid #ddd;padding:0}table th{font-weight:bold}table th,table td{border:1px solid #ccc;padding:6px 13px}table tr{border-top:1px solid #ccc;background-color:#fff}table tr:nth-child(2n){background-color:#f8f8f8}img{max-width:100%}
         #container {  
@@ -47,6 +50,8 @@
         }  
     </style>  
 </head>
+
+<h1>北京时间</h1>
     
 <body_time>   
     <div id="container">   
@@ -64,164 +69,7 @@
         setInterval(updateTime, 1000);  
         updateTime(); // 初始化显示时间  
     </script>  
-</body_time>
-
-<head>
- <meta charset="UTF-8">
- <title>带日期的时钟</title>
- <style>
- h1 {
- text-align: center;
- }
- </style>
- </head>
- 
- <body>
- <div>
- <canvas id="c1" width="200px" height="200px">
- 
- </canvas>
- </div>
- 
- <script type="text/javascript">
- var clock = document.getElementById("c1").getContext("2d");
- 
-// var clock = $("#huabu").get(0).getContext("2d"); //$中使用画布
- 
- function play() {
- clock.clearRect(0, 0, 200, 200);
- clock.save();
- clock.translate(100, 100); //把画布中心转移到canvas中间
- biaopan();
- run();
- clock.restore();
- }
- setInterval(function() {
- play();
- }, 1000);
- 
- function biaopan() {
- //绘制表盘
- clock.strokeStyle = " #9932CC";
- clock.lineWidth = 5;
- clock.beginPath();
- clock.arc(0, 0, 95, 0, 2 * Math.PI);
- clock.stroke();
- 
- //刻度(小时)
- clock.strokeStyle = "#9932CC";
- clock.lineWidth = 5;
- for(var i = 0; i < 12; i++) {
-  clock.beginPath();
-  clock.moveTo(0, -95);
-  clock.lineTo(0, -85);
-  clock.stroke();
-  clock.rotate(2 * Math.PI / 12);
- }
- //刻度(分钟)
- clock.strokeStyle = "#9932CC";
- clock.lineWidth = 3;
- for(var i = 0; i < 60; i++) {
-  clock.beginPath();
-  clock.moveTo(0, -95);
-  clock.lineTo(0, -90);
-  clock.stroke();
-  clock.rotate(2 * Math.PI / 60);
- }
- //绘制文字
- clock.textAlign = "center";
- clock.textBaseline = "middle";
- clock.fillStyle = "#6495ED";
- clock.font = "20px 微软雅黑"
- for(var i = 1; i < 13; i++) {
-  clock.fillText(i,Math.sin(2*Math.PI /12*i)*75,Math.cos(2*Math.PI/12*i)*-75);
- }
- }
- 
- function run() {
- var date = new Date();
- var h = date.getHours();
- var m = date.getMinutes();
- var s = date.getSeconds();
-// if(h > 12) {
-//  h = h - 12;
-// }
- //日期
- var week = date.getDay();
- var month = date.getMonth() + 1;
- var day = date.getDate();
- switch (week){
-  case 1: week = "星期一";
-  break;
-  case 2: week = "星期二";
-  break;
-  case 3: week = "星期三";
-  break;
-  case 4: week = "星期四";
-  break;
-  case 5: week = "星期五";
-  break;
-  case 6: week = "星期六";
-  break;
-  default: week = "星期天";
-  break;
- }
- clock.save();
- clock.textAlign = "center";
- clock.textBaseline = "middle";
- clock.fillStyle = "black";
- clock.font = "16px"
- clock.fillText(week,0,-40);
- clock.fillText(month+" 月",-40,0);
- clock.fillText(day+" 号",40,0);
- clock.stroke();
- clock.restore();
- 
- //时针
- //分针60格 分针5格 
- clock.save();
- clock.rotate(2 * Math.PI / 12 * h + (2 * Math.PI / 60 * m + 2 * Math.PI / 60 * s / 60) / 12);
- clock.strokeStyle = "black";
- clock.lineWidth = 7;
- clock.beginPath();
- clock.moveTo(0, 0);
- clock.lineTo(0, -40);
- clock.lineCap = "round";
- clock.stroke();
- clock.restore();
- //分针
- //秒针60格 分针一格
- clock.save();
- clock.beginPath();
- clock.strokeStyle = "#D2691E";
- clock.lineWidth = 5;
- clock.rotate(2 * Math.PI / 60 * m + 2 * Math.PI / 60 * s / 60);
- clock.moveTo(0, 0);
- clock.lineTo(0, -50);
- clock.lineCap = "round";
- clock.stroke();
- clock.restore();
- //秒针
- clock.strokeStyle = "red";
- clock.rotate(2 * Math.PI / 60 * s);
- clock.lineWidth = 4;
- clock.beginPath();
- clock.moveTo(0, 0);
- clock.lineTo(0, -60);
- clock.lineCap = "round";
- clock.stroke();
- //中心
- clock.fillStyle = " #CCFFFF";
- clock.lineWidth = 5;
- clock.beginPath();
- clock.arc(0, 0, 10, 0, 2 * Math.PI);
- clock.fill();
- clock.strokeStyle = "cadetblue";
- clock.stroke();
- 
- }
- </script>
- </body>
+</body_time>  
 
 # 梦在前方
 <div align="center"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe> </div>
