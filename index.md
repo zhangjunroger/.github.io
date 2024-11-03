@@ -1,5 +1,5 @@
 # 张俊的课程资源
-<html lang="zh-CN">  
+
 <head>  
     <meta charset="utf-8" />  
     <title>常用软件下载</title>  
@@ -69,7 +69,6 @@
     </script>  
 </body_time>
 
-<div align="center">
 <head>
  <meta charset="UTF-8">
  <title>带日期的时钟</title>
@@ -230,6 +229,8 @@
 </div>
 
 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhangjunroger" /> </div>
+
+
 
 # 梦在前方
 <div align="center"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe> </div>
