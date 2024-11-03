@@ -60,7 +60,6 @@
 <div align="center">
 <input type="button" name="7" id="7" style="background-color: red; color: white; font-size: 18px; padding: 10px 20px;" value="考试提示系统！" onclick="window.location.href='../examapp.html'" />
 </div>
-</body>
 
 # 张俊的课程资源
 
