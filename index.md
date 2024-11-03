@@ -1,7 +1,5 @@
 # 张俊的课程资源
 
-<!DOCTYPE html>  
-<html lang="zh-CN">  
 <head>  
     <meta charset="utf-8" />  
     <title>张俊的课程资源</title>  
