@@ -251,7 +251,6 @@
 1. 教材PDF                    [https://www.lanzoub.com/iiBo51lh7ptg](https://www.lanzoub.com/iiBo51lh7ptg)
 2. PPT                        [https://wwi.lanzoup.com/iyEBW20pv9dg](https://wwi.lanzoup.com/iyEBW20pv9dg)
 3. 控制理论MATLAB教程.pdf      [https://wwi.lanzoup.com/inmvf1lh88fg](https://wwi.lanzoup.com/inmvf1lh88fg)
-4. 20级答疑讲解视频      [https://zhangjunroger.github.io/index4.html](https://zhangjunroger.github.io/index4.html)
 
 ## 神经网络与深度学习（23级智能科学与技术、工业智能专业本科生）
 
