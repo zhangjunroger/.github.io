@@ -1,166 +1,46 @@
 # 常用的软件工具
 
-<div align="center">
-<head>
- <meta charset="UTF-8">
- <title>带日期的时钟</title>
- <style>
- h1 {
- text-align: center;
- }
- </style>
- </head>
- 
- <body>
- 
- <div>
- <canvas id="c1" width="200px" height="200px">
- 
- </canvas>
- </div>
- 
- <script type="text/javascript">
- var clock = document.getElementById("c1").getContext("2d");
- 
-// var clock = $("#huabu").get(0).getContext("2d"); //$中使用画布
- 
- function play() {
- clock.clearRect(0, 0, 200, 200);
- clock.save();
- clock.translate(100, 100); //把画布中心转移到canvas中间
- biaopan();
- run();
- clock.restore();
- }
- setInterval(function() {
- play();
- }, 1000);
- 
- function biaopan() {
- //绘制表盘
- clock.strokeStyle = " #9932CC";
- clock.lineWidth = 5;
- clock.beginPath();
- clock.arc(0, 0, 95, 0, 2 * Math.PI);
- clock.stroke();
- 
- //刻度(小时)
- clock.strokeStyle = "#9932CC";
- clock.lineWidth = 5;
- for(var i = 0; i < 12; i++) {
-  clock.beginPath();
-  clock.moveTo(0, -95);
-  clock.lineTo(0, -85);
-  clock.stroke();
-  clock.rotate(2 * Math.PI / 12);
- }
- //刻度(分钟)
- clock.strokeStyle = "#9932CC";
- clock.lineWidth = 3;
- for(var i = 0; i < 60; i++) {
-  clock.beginPath();
-  clock.moveTo(0, -95);
-  clock.lineTo(0, -90);
-  clock.stroke();
-  clock.rotate(2 * Math.PI / 60);
- }
- //绘制文字
- clock.textAlign = "center";
- clock.textBaseline = "middle";
- clock.fillStyle = "#6495ED";
- clock.font = "20px 微软雅黑"
- for(var i = 1; i < 13; i++) {
-  clock.fillText(i,Math.sin(2*Math.PI /12*i)*75,Math.cos(2*Math.PI/12*i)*-75);
- }
- }
- 
- function run() {
- var date = new Date();
- var h = date.getHours();
- var m = date.getMinutes();
- var s = date.getSeconds();
-// if(h > 12) {
-//  h = h - 12;
-// }
- //日期
- var week = date.getDay();
- var month = date.getMonth() + 1;
- var day = date.getDate();
- switch (week){
-  case 1: week = "星期一";
-  break;
-  case 2: week = "星期二";
-  break;
-  case 3: week = "星期三";
-  break;
-  case 4: week = "星期四";
-  break;
-  case 5: week = "星期五";
-  break;
-  case 6: week = "星期六";
-  break;
-  default: week = "星期天";
-  break;
- }
- clock.save();
- clock.textAlign = "center";
- clock.textBaseline = "middle";
- clock.fillStyle = "black";
- clock.font = "16px"
- clock.fillText(week,0,-40);
- clock.fillText(month+" 月",-40,0);
- clock.fillText(day+" 号",40,0);
- clock.stroke();
- clock.restore();
- 
- //时针
- //分针60格 分针5格 
- clock.save();
- clock.rotate(2 * Math.PI / 12 * h + (2 * Math.PI / 60 * m + 2 * Math.PI / 60 * s / 60) / 12);
- clock.strokeStyle = "black";
- clock.lineWidth = 7;
- clock.beginPath();
- clock.moveTo(0, 0);
- clock.lineTo(0, -40);
- clock.lineCap = "round";
- clock.stroke();
- clock.restore();
- //分针
- //秒针60格 分针一格
- clock.save();
- clock.beginPath();
- clock.strokeStyle = "#D2691E";
- clock.lineWidth = 5;
- clock.rotate(2 * Math.PI / 60 * m + 2 * Math.PI / 60 * s / 60);
- clock.moveTo(0, 0);
- clock.lineTo(0, -50);
- clock.lineCap = "round";
- clock.stroke();
- clock.restore();
- //秒针
- clock.strokeStyle = "red";
- clock.rotate(2 * Math.PI / 60 * s);
- clock.lineWidth = 4;
- clock.beginPath();
- clock.moveTo(0, 0);
- clock.lineTo(0, -60);
- clock.lineCap = "round";
- clock.stroke();
- //中心
- clock.fillStyle = " #CCFFFF";
- clock.lineWidth = 5;
- clock.beginPath();
- clock.arc(0, 0, 10, 0, 2 * Math.PI);
- clock.fill();
- clock.strokeStyle = "cadetblue";
- clock.stroke();
- 
- }
- </script>
- </body>
-</div>
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>实时北京时间</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            height: 100vh;  
+            background-color: #f0f0f0;  
+        }  
+        #clock {  
+            font-size: 48px;  
+            color: #333;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div id="clock"></div>  
 
-<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=zhangjunroger" /> </div>
+    <script>  
+        function updateTime() {  
+            // 获取当前时间（UTC时间）  
+            const now = new Date();  
+            // 将当前时间转换为北京时间（UTC+8）  
+            const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);  
+            // 格式化时间字符串  
+            const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };  
+            document.getElementById('clock').innerText = beijingTime.toLocaleTimeString('en-US', options);  
+        }  
+
+        // 每秒更新时间  
+        setInterval(updateTime, 1000);  
+        // 初始化显示时间  
+        updateTime();  
+    </script>  
+</body>  
+</html>  
 
 ## 常用的软件工具
 
