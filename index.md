@@ -47,10 +47,8 @@
             }  
         }  
     </style>  
-</head>
+</head>  
 
-<h1>北京时间</h1>
-    
 <body_time>   
     <div id="container">   
         <div id="clock"></div> <!-- 用于显示时间的div -->  
