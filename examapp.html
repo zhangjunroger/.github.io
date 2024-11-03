@@ -1,0 +1,113 @@
+<!DOCTYPE html>  
+<html lang="zh-CN">  
+<head>  
+    <meta charset="utf-8" />  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />  
+    <title>考试信息</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            background: #f4f4f4;  
+            display: flex;  
+            flex-direction: column;  
+            align-items: center;  
+            justify-content: center;  
+            height: 100vh;  
+            margin: 0;  
+        }  
+        #container {  
+            background: white;  
+            padding: 20px;  
+            border-radius: 10px;  
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);  
+        }  
+        h1 {  
+            font-size: 24px;  
+            margin-bottom: 20px;  
+        }  
+        input {  
+            margin-bottom: 10px;  
+            padding: 10px;  
+            width: 250px;  
+        }  
+        #info {  
+            margin-top: 20px;  
+            font-size: 18px;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div id="container">  
+        <h1>考试信息设置</h1>  
+        <input type="text" id="subject" placeholder="考试科目" />  
+        <input type="datetime-local" id="startTime" placeholder="考试开始时间" />  
+        <input type="datetime-local" id="endTime" placeholder="考试结束时间" />  
+        <button onclick="startExam()">开始考试</button>  
+        <div id="info"></div>  
+    </div>  
+
+    <script>  
+        let timer;  
+        function startExam() {  
+            const subject = document.getElementById("subject").value;  
+            const startTime = new Date(document.getElementById("startTime").value);  
+            const endTime = new Date(document.getElementById("endTime").value);  
+            const now = new Date();  
+
+            if (startTime <= now) {  
+                alert("考试开始时间必须在当前时间之后！");  
+                return;  
+            }  
+
+            if (endTime <= startTime) {  
+                alert("考试结束时间必须在开始时间之后！");  
+                return;  
+            }  
+
+            clearInterval(timer);  
+            updateInfo(subject, startTime, endTime);  
+            timer = setInterval(() => updateInfo(subject, startTime, endTime), 1000);  
+        }  
+
+        function updateInfo(subject, startTime, endTime) {  
+            const now = new Date();  
+            const remainingTime = endTime - now;  
+            const remainingMinutes = Math.floor(remainingTime / 60000);  
+
+            document.getElementById("info").innerHTML = `  
+                <p>当前时间: ${now.toLocaleTimeString()}</p>  
+                <p>考试科目: ${subject}</p>
+                <p>剩余时间: ${formatTime(remainingTime)}</p> 
+                <p>考试开始时间: ${startTime.toLocaleString()}</p>  
+                <p>考试结束时间: ${endTime.toLocaleString()}</p>  
+            `;  
+
+            // 语音提醒  
+            if (remainingMinutes === 30 || remainingMinutes === 20 || remainingMinutes === 10) {  
+                speak(`剩余 ${remainingMinutes} 分钟，请注意时间！`);  
+            }  
+
+            if (remainingTime <= 0) {  
+                clearInterval(timer);  
+                alert("考试结束！");  
+                document.getElementById("info").innerHTML += "<p>考试已结束。</p>";  
+            }  
+        }  
+
+        function formatTime(ms) {  
+            const totalSeconds = Math.max(0, Math.floor(ms / 1000));  
+            const hours = Math.floor(totalSeconds / 3600);  
+            const minutes = Math.floor((totalSeconds % 3600) / 60);  
+            const seconds = totalSeconds % 60;  
+
+            return `${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;  
+        }  
+
+        function speak(text) {  
+            const speech = new SpeechSynthesisUtterance();  
+            speech.text = text;  
+            window.speechSynthesis.speak(speech);  
+        }  
+    </script>  
+</body>  
+</html>
