@@ -11,7 +11,20 @@
             border-radius: 15px;  
             box-shadow: 0 4px 30px rgba(0, 0, 0, 0.3); /* 阴影效果 */  
             background: rgba(255, 255, 255, 0.1); /* 半透明背景 */  
+        }
+
+        body_time {  
+            margin: 0;  
+            padding: 0;  
+            height: 100%;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            font-family: Arial, sans-serif;  
+            background: linear-gradient(135deg, #74ebd5, #acb6e5); /* 渐变背景 */  
+            color: #fff; /* 字体颜色 */  
         }  
+        
         h1 {
             text-align: center;  
             font-size: 36px;  
@@ -36,7 +49,7 @@
     </style>  
 </head>
     
-<body>  
+<body_time>  
     <div id="container">  
         <h1>北京时间</h1>  
         <div id="clock"></div> <!-- 用于显示时间的div -->  
@@ -45,7 +58,7 @@
     <script>  
         function updateTime() {  
             const now = new Date();  
-            const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);  
+            const beijingTime = new Date(now.getTime());  
             const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };  
             document.getElementById('clock').innerText = beijingTime.toLocaleTimeString('zh-CN', options);  
         }  
@@ -53,7 +66,7 @@
         setInterval(updateTime, 1000);  
         updateTime(); // 初始化显示时间  
     </script>  
-</body>  
+</body_time>  
         
 <h2>常用的软件工具</h2>
 <ol>
