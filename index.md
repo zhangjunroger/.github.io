@@ -311,8 +311,9 @@ h1 {
         setInterval(updateTime, 1000);  
         updateTime(); // 初始化显示时间  
     </script>  
-</body_time>  
+</body_time>
 
+<body>
 # 梦在前方
 <div align="center"> <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=70525&auto=1&height=66"></iframe> </div>
 
@@ -373,6 +374,7 @@ h1 {
 <div align="center">
 <input type="button" name="7" id="7" style="background-color: red; color: white; font-size: 18px; padding: 10px 20px;" value="考试提示系统！" onclick="window.location.href='../examapp.html'" />
 </div>
+</body>
 
 # 张俊的课程资源
 
