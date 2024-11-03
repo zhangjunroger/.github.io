@@ -122,7 +122,6 @@
 <div align="center">
 <input type="button" name="7" id="7" style="background-color: red; color: white; font-size: 18px; padding: 10px 20px;" value="会议室预定系统！" onclick="window.location.href='../index5.html'" />
 </div>
-</body>
 
 # 考试提示系统！
 <div align="center">
