@@ -14,7 +14,9 @@
 
 <body>
 <h1>北京时间</h1>
-<div align="center">
+<div align="center"></div> 
+</body>
+
 <body>  
     <div id="clock"></div>  
     <script>  
@@ -22,7 +24,7 @@
             // 获取当前时间（UTC时间）  
             const now = new Date();  
             // 将当前时间转换为北京时间（UTC+8）  
-            const beijingTime = new Date(now.getTime() + 8 * 60 * 60 * 1000);  
+            const beijingTime = new Date(now.getTime());  
             // 格式化时间字符串  
             const options = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false };  
             document.getElementById('clock').innerText = beijingTime.toLocaleTimeString('zh-CN', options);  
@@ -33,7 +35,8 @@
         // 初始化显示时间  
         updateTime();  
 </script>  
-
+</body>
+        
 <body>  
 <h2>常用的软件工具</h2>
 <ol>
