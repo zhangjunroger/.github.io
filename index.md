@@ -1,4 +1,5 @@
 #张俊的课程资源
+
 <div align="center">  
 <head>  
     <meta charset="utf-8" />  
@@ -46,8 +47,7 @@
         }  
     </style>  
 </head>  
-<body_time>   
-    <h1>北京时间</h1>    
+<body_time>     
     <div id="container">   
         <div id="clock"></div> <!-- 用于显示时间的div -->  
     </div>  
