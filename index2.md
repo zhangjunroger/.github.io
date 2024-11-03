@@ -12,11 +12,13 @@
             justify-content: center;  
             align-items: center;  
             height: 100vh;  
-            background-color: #f0f0f0;  
+            background-color: #282c34; /* 深色背景 */  
+            color: #61dafb; /* 浅蓝色字体 */  
+            margin: 0;  
         }  
         #clock {  
             font-size: 48px;  
-            color: #333;  
+            text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5); /* 字体阴影 */  
         }  
     </style>  
 </head>  
