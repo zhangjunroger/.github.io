@@ -5,7 +5,28 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">  
     <title>人工智能学院—教室、会议室、实验室—预定系统</title>  
     <link rel="stylesheet" href="styles.css">
+    <style>  
+        #booking-info {  
+            max-height: 300px; /* 设置容器的最大高度 */  
+            overflow-y: auto;  /* 启用垂直滚动条 */  
+            border: 1px solid #ccc; /* 可选：为容器添加边框 */  
+            padding: 10px; /* 可选：为容器添加内边距 */  
+        }  
+        table {  
+            width: 100%; /* 表格宽度100% */  
+            border-collapse: collapse; /* 合并边框 */  
+        }  
+        th, td {  
+            border: 1px solid #ddd; /* 表格单元格边框 */  
+            padding: 8px; /* 单元格内边距 */  
+            text-align: left; /* 左对齐 */  
+        }  
+        th {  
+            background-color: #f2f2f2; /* 表头背景色 */  
+        }  
+    </style>  
 </head>  
+
 <body>  
     <!-- 引入 LeanCloud SDK -->  
     <script src="https://unpkg.com/leancloud-storage@4.13.0/dist/av-min.js"></script>  
@@ -44,7 +65,8 @@
                 <option value="108党建活动室/党员活动中心">108党建活动室/党员活动中心</option>  
                 <option value="112工业智能本科专业实验室">112工业智能本科专业实验室</option>  
                 <option value="113智能科学与技术本科专业实验室">113智能科学与技术本科专业实验室</option>  
-                <option value="216学术交流室（1）">216学术交流室（1）</option> 
+                <option value="216学术交流室（1）">216学术交流室（1）</option>  
+                <option value="217学术交流室（2）">217学术交流室（2）</option>  
                 <option value="222学院会议室/学术交流中心）">222学院会议室/学术交流中心</option>  
             </select>  
             <button onclick="bookClassroom()">预定</button>

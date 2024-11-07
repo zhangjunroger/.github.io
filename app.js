@@ -136,7 +136,7 @@ function checknow() {
 
     const now = new Date();  
     now.setHours(0, 0, 0, 0); // 设定为当天的零点以避免时间误差  
-    const query = new AV.Query('Booking');   
+    const query = new AV.Query('Booking');  
     query.greaterThanOrEqualTo('date', now.toISOString().split('T')[0]);  
     query.find().then(results => {  
         if (results.length === 0) {  
@@ -181,7 +181,8 @@ function checknow() {
     }).catch(error => {  
         alert('获取预定信息失败：' + error.message);  
     });  
-}
+}  
+
 
 // 删除预定  
 function deleteBooking(bookingId) {  
