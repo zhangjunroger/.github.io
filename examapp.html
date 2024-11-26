@@ -1,143 +1,69 @@
 <!DOCTYPE html>
 <html lang="zh-CN">
 <head>
-    <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>考试信息设置</title>
-    <!-- Tailwind CSS CDN -->
+    <!-- Tailwind CSS -->
     <script src="https://cdn.tailwindcss.com"></script>
-    <style>
-        /* 全局样式 */
-        body {
-            @apply bg-gradient-to-r from-blue-50 to-blue-100 m-0 min-h-screen flex items-center justify-center;
-            font-family: 'Apple System', 'BlinkMacSystemFont', 'Segoe UI', 'Roboto', sans-serif;
-        }
-        /* 容器样式 */
-        #container {
-            @apply max-w-4xl w-full p-8 bg-white bg-opacity-80 shadow-2xl rounded-lg;
-            backdrop-filter: blur(10px);
-            @apply flex flex-col items-center justify-center text-center;
-        }
-        h1 {
-            @apply text-4xl font-bold mb-6 text-blue-700;
-        }
-        /* 表单样式 */
-        .form-section {
-            @apply bg-white bg-opacity-70 p-6 rounded-lg shadow mb-8 w-full;
-            @apply flex flex-col items-center justify-center text-center;
-        }
-        .form-group {
-            @apply mb-5 w-full;
-            @apply flex flex-col items-center justify-center;
-        }
-        label {
-            @apply block text-gray-800 font-semibold mb-2;
-        }
-        input, select {
-            @apply p-3 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-400;
-            background-color: rgba(255, 255, 255, 0.9);
-            @apply text-center;
-            @apply w-full max-w-md;
-        }
-        /* 按钮样式 */
-        .btn-group {
-            @apply flex flex-col space-y-4 mt-6 items-center justify-center;
-            @apply w-full;
-        }
-        button {
-            @apply w-full max-w-md py-3 px-5 rounded-md font-semibold text-white;
-            background: linear-gradient(90deg, #4F46E5 0%, #3B82F6 100%);
-            transition: background 0.3s;
-        }
-        button:hover {
-            background: linear-gradient(90deg, #3B82F6 0%, #4F46E5 100%);
-        }
-        /* 信息区样式 */
-        #info {
-            @apply bg-white bg-opacity-80 p-6 rounded-lg shadow mb-8 w-full;
-            @apply flex flex-col items-center justify-center text-center;
-        }
-        /* 座位表样式 */
-        #seatingChart {
-            @apply bg-white bg-opacity-90 p-6 rounded-lg shadow mb-8 w-full;
-            @apply flex flex-col items-center justify-center text-center;
-        }
-        #seatingChart table {
-            @apply border-collapse;
-        }
-        #seatingChart td {
-            @apply border border-gray-300 p-4 text-center text-base font-medium;
-        }
-        #seatingChart td.occupied {
-            @apply bg-green-100 border-green-400;
-        }
-        #seatingChart td.empty {
-            @apply bg-gray-200 border-gray-400;
-        }
-        /* 单选按钮组样式 */
-        .radio-group {
-            @apply flex items-center space-x-6 justify-center;
-        }
-        .radio-group label {
-            @apply flex items-center text-gray-700;
-        }
-        .radio-group input {
-            @apply mr-2;
-        }
-    </style>
 </head>
-<body>
-    <div id="container">
-        <h1>考试信息设置</h1>
-        <div class="form-section">
-            <div class="form-group">
-                <label for="subject">考试科目</label>
-                <input type="text" id="subject" placeholder="请输入考试科目" />
+<body class="bg-gradient-to-r from-blue-50 to-blue-100 min-h-screen flex items-center justify-center">
+    <div class="w-full max-w-4xl bg-white shadow-lg rounded-lg p-8 flex flex-col items-center text-center">
+        <h1 class="text-4xl font-bold text-blue-700 mb-8">考试信息设置</h1>
+        <!-- 表单部分 -->
+        <form class="w-full max-w-md space-y-6">
+            <div>
+                <label for="subject" class="block text-lg font-medium text-gray-700 mb-2">考试科目</label>
+                <input type="text" id="subject" placeholder="请输入考试科目" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label for="startTime">考试开始时间</label>
-                <input type="datetime-local" id="startTime" />
+            <div>
+                <label for="startTime" class="block text-lg font-medium text-gray-700 mb-2">考试开始时间</label>
+                <input type="datetime-local" id="startTime" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label for="endTime">考试结束时间</label>
-                <input type="datetime-local" id="endTime" />
+            <div>
+                <label for="endTime" class="block text-lg font-medium text-gray-700 mb-2">考试结束时间</label>
+                <input type="datetime-local" id="endTime" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label for="studentCount">学生人数</label>
-                <input type="number" id="studentCount" placeholder="请输入学生人数" min="1" />
+            <div>
+                <label for="studentCount" class="block text-lg font-medium text-gray-700 mb-2">学生人数</label>
+                <input type="number" id="studentCount" placeholder="请输入学生人数" min="1" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label for="rowCount">行数</label>
-                <input type="number" id="rowCount" placeholder="请输入行数" min="1" />
+            <div>
+                <label for="rowCount" class="block text-lg font-medium text-gray-700 mb-2">行数</label>
+                <input type="number" id="rowCount" placeholder="请输入行数" min="1" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label for="columnCount">列数</label>
-                <input type="number" id="columnCount" placeholder="请输入列数" min="1" />
+            <div>
+                <label for="columnCount" class="block text-lg font-medium text-gray-700 mb-2">列数</label>
+                <input type="number" id="columnCount" placeholder="请输入列数" min="1" class="w-full p-3 border border-gray-300 rounded-lg focus:ring-2 focus:ring-blue-400 text-center">
             </div>
-            <div class="form-group">
-                <label>显示选项</label>
-                <div class="radio-group">
-                    <label>
-                        <input type="radio" name="displayOption" value="id" checked /> 显示座位号
+            <div>
+                <label class="block text-lg font-medium text-gray-700 mb-2">显示选项</label>
+                <div class="flex justify-center space-x-4">
+                    <label class="flex items-center">
+                        <input type="radio" name="displayOption" value="id" checked class="mr-2">
+                        显示座位号
                     </label>
-                    <label>
-                        <input type="radio" name="displayOption" value="name" /> 显示姓名
+                    <label class="flex items-center">
+                        <input type="radio" name="displayOption" value="name" class="mr-2">
+                        显示姓名
                     </label>
                 </div>
             </div>
-            <div class="btn-group">
-                <button onclick="startExam()">开始考试</button>
-                <button onclick="generateSeating()">生成座位安排</button>
+            <div class="flex flex-col space-y-4">
+                <button type="button" onclick="startExam()" class="w-full py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700">开始考试</button>
+                <button type="button" onclick="generateSeating()" class="w-full py-3 bg-green-600 text-white font-semibold rounded-lg hover:bg-green-700">生成座位安排</button>
             </div>
-        </div>
-        <div id="info"></div>
-        <div id="seatingChart"></div>
+        </form>
+        <!-- 信息展示 -->
+        <div id="info" class="w-full mt-8 p-6 bg-gray-100 rounded-lg shadow text-center"></div>
+        <!-- 座位表 -->
+        <div id="seatingChart" class="w-full mt-8 p-6 bg-gray-100 rounded-lg shadow text-center"></div>
     </div>
 
     <script>
         let timer;
-        const reminderTimes = [30, 20, 10, 5]; // 需要提醒的时间（分钟）
-        const reminded = new Set(); // 用于追踪已提醒的时间点
+        const reminderTimes = [30, 20, 10, 5]; // 提醒时间点（分钟）
+        const reminded = new Set(); // 已提醒的时间点
 
         function startExam() {
             const subject = document.getElementById("subject").value;
@@ -162,7 +88,7 @@
 
             clearInterval(timer);
             updateInfo(subject, startTime, endTime);
-            reminded.clear(); // 每次开始考试时清空已提醒的时间点
+            reminded.clear();
             timer = setInterval(() => updateInfo(subject, startTime, endTime), 1000);
         }
 
@@ -179,11 +105,10 @@
                 <p><strong>考试结束时间：</strong>${endTime.toLocaleString()}</p>
             `;
 
-            // 语音提醒
             reminderTimes.forEach(minutes => {
                 if (remainingMinutes === minutes && !reminded.has(minutes)) {
-                    speak(`距离${subject}考试结束还剩余 ${minutes} 分钟，请注意时间！`);
-                    reminded.add(minutes); // 添加到已提醒的集合中
+                    alert(`距离${subject}考试结束还剩 ${minutes} 分钟，请注意时间！`);
+                    reminded.add(minutes);
                 }
             });
 
@@ -203,21 +128,11 @@
             return `${hours} 小时 ${minutes} 分钟 ${seconds} 秒`;
         }
 
-        function speak(text) {
-            const speech = new SpeechSynthesisUtterance();
-            speech.text = text;
-            window.speechSynthesis.speak(speech);
-        }
-
         function generateSeating() {
-            const studentCountInput = document.getElementById("studentCount").value;
-            const rowCountInput = document.getElementById("rowCount").value;
-            const columnCountInput = document.getElementById("columnCount").value;
+            const studentCount = parseInt(document.getElementById("studentCount").value);
+            const rowCount = parseInt(document.getElementById("rowCount").value);
+            const columnCount = parseInt(document.getElementById("columnCount").value);
             const displayOption = document.querySelector('input[name="displayOption"]:checked').value;
-
-            const studentCount = parseInt(studentCountInput);
-            const rowCount = parseInt(rowCountInput);
-            const columnCount = parseInt(columnCountInput);
 
             if (!studentCount || !rowCount || !columnCount) {
                 alert("请填写完整的座位安排信息！");
@@ -230,38 +145,26 @@
                 return;
             }
 
-            // 生成占位学生
-            let seatAssignments = Array.from({ length: studentCount }, (_, i) => ({
+            const seatAssignments = Array.from({ length: studentCount }, (_, i) => ({
                 id: (i + 1).toString().padStart(2, '0'),
                 name: `学生${i + 1}`
             }));
 
-            // 随机打乱学生顺序
             shuffleArray(seatAssignments);
 
-            // 生成座位矩阵
-            let seatingMatrix = [];
+            const seatingMatrix = [];
             let index = 0;
             for (let i = 0; i < rowCount; i++) {
-                let row = [];
+                const row = [];
                 for (let j = 0; j < columnCount; j++) {
                     if (index < seatAssignments.length) {
                         const student = seatAssignments[index++];
                         row.push({
                             occupied: true,
-                            text: displayOption === "id"
-                                ? student.id.slice(-2)
-                                : student.name
+                            text: displayOption === "id" ? student.id : student.name
                         });
                     } else {
-                        // 如果是最后一排，可以少排座位
-                        if (i === rowCount - 1) {
-                            break;
-                        } else {
-                            row.push({
-                                occupied: false
-                            });
-                        }
+                        row.push({ occupied: false });
                     }
                 }
                 seatingMatrix.push(row);
@@ -272,16 +175,14 @@
 
         function renderSeatingChart(seatingMatrix) {
             const seatingChartDiv = document.getElementById("seatingChart");
-            let html = `
-                <h2 class="text-2xl font-bold mb-4 text-blue-700">座位安排</h2>
-                <table>`;
-            seatingMatrix.forEach((row) => {
+            let html = `<h2 class="text-2xl font-bold mb-4 text-blue-700">座位安排</h2><table class="mx-auto border-collapse">`;
+            seatingMatrix.forEach(row => {
                 html += "<tr>";
                 row.forEach(seat => {
                     if (seat.occupied) {
-                        html += `<td class="occupied">${seat.text || "-"}</td>`;
+                        html += `<td class="border border-gray-300 p-4 bg-green-100">${seat.text}</td>`;
                     } else {
-                        html += `<td class="empty"></td>`;
+                        html += `<td class="border border-gray-300 p-4 bg-gray-200"></td>`;
                     }
                 });
                 html += "</tr>";
