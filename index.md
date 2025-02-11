@@ -134,13 +134,13 @@
 
 # 张俊的课程资源
 
-## 自动控制原理（22级工业智能专业本科生）
+## 自动控制原理（23级智能科学与技术专业本科生）
 
 1. 教材PDF                    [https://www.lanzoub.com/iiBo51lh7ptg](https://www.lanzoub.com/iiBo51lh7ptg)
 2. PPT                        [https://wwi.lanzoup.com/iyEBW20pv9dg](https://wwi.lanzoup.com/iyEBW20pv9dg)
 3. 控制理论MATLAB教程.pdf      [https://wwi.lanzoup.com/inmvf1lh88fg](https://wwi.lanzoup.com/inmvf1lh88fg)
 
-## 神经网络与深度学习（23级智能科学与技术、工业智能专业本科生）
+## 神经网络与深度学习（24级智能科学与技术、工业智能专业本科生）
 
 1. 教材PDF                        [https://wwi.lanzoup.com/isO9O08c83xa](https://wwi.lanzoup.com/isO9O08c83xa)
 2. Python入门 PPT                 [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
@@ -171,7 +171,7 @@
 23. python3.7.9安装包   [https://wwfz.lanzouv.com/iW3s22aqy2yj](https://wwfz.lanzouv.com/iW3s22aqy2yj)
 24. python3.6.4安装包   [https://wwfz.lanzouv.com/iE59a2aqy2te](https://wwfz.lanzouv.com/iE59a2aqy2te)
 
-## 计算机控制系统（24级控制工程专业研究生）
+## 计算机控制系统（25级控制工程专业研究生）
 
 1. 教材pdf                       [https://wwi.lanzoup.com/iVDHI08cbgpi](https://wwi.lanzoup.com/iVDHI08cbgpi)
 2. chap1_计算机控制系统概述        [https://wwi.lanzoup.com/ivcdx0aaklah](https://wwi.lanzoup.com/ivcdx0aaklah)
@@ -188,7 +188,7 @@
 13. matlab R2024a   [https://pan.baidu.com/s/1ahC_b4lUopp5SiBUgvmH1A?pwd=ow7u](https://pan.baidu.com/s/1ahC_b4lUopp5SiBUgvmH1A?pwd=ow7u)
 14. matlab R2021a MAC  [https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg](https://pan.baidu.com/s/1QkMNaMm_STjYmasG5nf4zw?pwd=h6fg)
 
-## 神经网络与强化学习（24级研究生）
+## 神经网络与强化学习（25级研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
 2. Python入门 PPT             [https://wwfz.lanzouv.com/iKNKH2aqzgbg](https://wwfz.lanzouv.com/iKNKH2aqzgbg)
@@ -214,7 +214,7 @@
 22. python3.7.9安装包   [https://wwfz.lanzouv.com/iW3s22aqy2yj](https://wwfz.lanzouv.com/iW3s22aqy2yj)
 23. python3.6.4安装包   [https://wwfz.lanzouv.com/iE59a2aqy2te](https://wwfz.lanzouv.com/iE59a2aqy2te)
 
-## 深度学习理论及应用（24级人工智能学院博士研究生）
+## 深度学习理论及应用（25级人工智能学院博士研究生）
 
 1. 教材pdf                    [https://wwi.lanzoup.com/ifU7k08cbjmd](https://wwi.lanzoup.com/ifU7k08cbjmd)
 2. Python入门 PPT             [https://wwi.lanzoup.com/i26pD08c83zc](https://wwi.lanzoup.com/i26pD08c83zc)
